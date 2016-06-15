@@ -1,0 +1,2 @@
+add_executable(maximum_pairwise_product maximum_pairwise_product.cpp)
+
