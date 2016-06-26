@@ -1,4 +1,4 @@
-#add_subdirectory(fibonacci_last_digit)
+add_subdirectory(fibonacci_last_digit)
 #add_subdirectory(fibonacci_modulo)
 add_subdirectory(fibonacci_small)
 #add_subdirectory(gcd)
