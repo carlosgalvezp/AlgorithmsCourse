@@ -4,3 +4,4 @@ SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pipe -O2 -std=c++11")
 
 add_subdirectory(aplusb)
 add_subdirectory(maximum_pairwise_product)
+add_subdirectory(assignment1)
