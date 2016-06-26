@@ -1,0 +1,1 @@
+add_executable(fibonacci_small fibonacci_small.cpp)
